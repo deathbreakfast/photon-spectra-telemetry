@@ -1,4 +1,4 @@
-//! Install Photon OpsLog from env and emit one typed counter.
+//! Install Photon `OpsLog` from env and emit one typed counter.
 //!
 //! ```bash
 //! PHOTON_TELEMETRY=console CARGO_BUILD_JOBS=1 \
